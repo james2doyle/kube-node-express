@@ -11,7 +11,7 @@ It is a basic express app. The html engine is Jade and stylesheets are just regu
 
 What projects are used in here?
 -------------------------------
-[Kube CSS Framework](http://imperavi.com/kube/)
-[Node.js](http://nodejs.org/)
-[Express](http://expressjs.com/)
-[Jade](http://jade-lang.com/)
+*  [Kube CSS Framework](http://imperavi.com/kube/)
+*  [Node.js](http://nodejs.org/)
+*  [Express](http://expressjs.com/)
+*  [Jade](http://jade-lang.com/)
